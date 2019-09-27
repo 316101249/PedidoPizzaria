@@ -10,7 +10,3 @@ Operador:
 Telenoe:
 
 Cliente:
-
-CPF:
-
-E-Mail:
